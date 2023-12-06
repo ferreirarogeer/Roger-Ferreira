@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF6313&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Roger+Ferreira+👋;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#FF6313&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Roger+Ferreira+👋;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">Tenho 28 anos, Atualmente estou fazendo uma residência de software em FullStack.</p>&nbsp;
 
